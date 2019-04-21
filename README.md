@@ -15,5 +15,5 @@ Each folder contains a project. Under the project page, few things will be inclu
 
 ## Notes
 
-- Please submit pull request if you want to make changes
+- Please submit [pull request](https://github.com/WomenInDataScience-Seattle/Machine_Learning_Projects/blob/master/working_with_pull_request.md.md) if you want to make changes
 - Please don't include data to the repo. Include link to download data if needed.
