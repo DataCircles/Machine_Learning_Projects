@@ -1,4 +1,4 @@
-# Machine Learning Project
+# Machine Learning Projects
 
 ## Objective
 
