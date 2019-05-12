@@ -4,11 +4,9 @@
 
 This repo contains code for MNIST handwritten classification.
 
-## Folder structure
+## File descriptions
 
 - ReadME.md
-- setup/config: config file with package dependencies.
-- Data cleaning/wrangling: code for data cleaning, and variable calculation.
-- Report: html or markdown report with major results
-
-## Models
+- loading_data.py - code to load MNIST data
+- mnist_class_example.ipynb - sample code for data exploration and building neural net using Keras
+- hyperparameter_tuning_mnist.py - sample code for hyperparameter optimization
